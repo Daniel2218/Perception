@@ -1,0 +1,6 @@
+Stealth, Puzzle, RPG
+You're a secret agent on missions to disarm bombs. You're equipped with a gun and flashlight. Enemies are attracted to the light from your flashlight, the sound your gun firing and the sound of setting off alarms. Breathing and speed of running make more sound etc...
+
+Puzzle
+Maze explorer where each maze is made of multiple color segments. When a color is active, those parts of the maze are revealed. The other parts become walls. In order to finish the maze, it may take multiple color switching.
+
