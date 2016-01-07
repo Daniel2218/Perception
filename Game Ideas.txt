@@ -4,3 +4,24 @@ You're a secret agent on missions to disarm bombs. You're equipped with a gun an
 Puzzle
 Maze explorer where each maze is made of multiple color segments. When a color is active, those parts of the maze are revealed. The other parts become walls. In order to finish the maze, it may take multiple color switching.
 
+Ghost 
+- You are a soul trying to be saved
+- SOmething like a top down adventure game
+- As a spirit you can walk through any physical objects, walls etc.
+- Goal is to ressurect by finding your corpse
+- You are given the intial ability of possessing things, and by doing so you can then interact with the world
+- It will be necessary to do so, as access to the corspe can inly be gained physically
+- As game progresses, ghost ability grows (Possession for a longer amount of time, phase through more shit
+
+
+
+Parallel
+- A side scroller?
+- Every parallel universe is secretly linked
+- Every action you take in one dimension is linked to an equivalent in others
+- Lets say there are 7 universes, Red, Orange, Yellow, Green, Blue, Indigo, Violet
+- Every action input by the player equates to some thing different in each world
+- You can only see you actions from one world at a time
+- Certain obstacles  may arise in one world that arent present in others, or other significant conditions
+- Example: In the Red world you move the character right towards a door, In the blue world moving right equivalent of moving some creature left (towards the character) etc etc
+- Goal is to get all variations of character to the end alive
