@@ -25,3 +25,15 @@ Parallel
 - Certain obstacles  may arise in one world that arent present in others, or other significant conditions
 - Example: In the Red world you move the character right towards a door, In the blue world moving right equivalent of moving some creature left (towards the character) etc etc
 - Goal is to get all variations of character to the end alive
+
+Daniel:
+
+1.
+ 
+- have an animal as your character have to proform taks with that animal to solve the puzzle.  
+- Can use other abimal character to also solve the puzzle
+
+2. Treadmil Jumper: 
+
+- must travers a path to the middle of a circular treadmill.
+- barriers and enimes in the way also gravity + pull of tred changes
