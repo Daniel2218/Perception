@@ -4,6 +4,21 @@ You're a secret agent on missions to disarm bombs. You're equipped with a gun an
 Puzzle
 Maze explorer where each maze is made of multiple color segments. When a color is active, those parts of the maze are revealed. The other parts become walls. In order to finish the maze, it may take multiple color switching.
 
+666
+- You have been banished to hell for some unknown reason.
+- You are given a chance for penance, in which how far you manage to go determines how much of your crimes are pardoned
+- There are 666 levels. Level 666 = The very pit of Hell, Level 1 = God's luxury condo
+- Each room is governed by a judge, who declares the trial you must overcome 
+- You begin at the lowest level, a basic character (ghost?), as you solve the trials within each room, the judge provides you with some new ability
+- As you progress, the truth of the story is revealed in very small pieces.
+- Once the main campaign is over, the levels continue on into some bonus stage
+- New ability at every x level
+
+Dev World
+- A game which evolves as the player moves forward
+- breaks 4th wall
+
+
 Ghost 
 - You are a soul trying to be saved
 - SOmething like a top down adventure game
