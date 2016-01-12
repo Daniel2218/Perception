@@ -1,0 +1,22 @@
+Organized from greatest priority
+
+Main Story:
+
+Game Play:
+	Game Play Description: // mainly what character does throughout the game
+	
+	Battles:
+	
+	Boss Battle:
+	
+Puzzles:
+	
+Traps:
+
+Dungean Themes:
+	// ie: devil/angel/winter themed dungeons
+Market: 
+
+Crafting:
+
+Character Background:
