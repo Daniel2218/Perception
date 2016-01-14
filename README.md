@@ -1,2 +1,0 @@
-# TeamRocket
-CISC 226
