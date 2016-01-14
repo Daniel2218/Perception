@@ -1,0 +1,51 @@
+666
+Plot:
+God/Devil agree to start a dungean war with all the hell mates who ever is able to defeat the dungeons will be granted acess to heaven and escape hell. You play a character who is hell and goal is to get to heaven.  The character will transverse throught all the dungeans until they defeat the final boss(devil + God battle).
+
+Back Story Main Character: 
+Served his live in pergoatory as an master assassin. A vilgilante that would kill the bad and help the good. Was killed by
+servants sent from god and devil. Killed him because they thought he was taking the job in his own hands. No one could defeat him due to the intence training he was put thorogh his entire life so they had to send inhuman creature to beat his ability as a human. Trained like a spartan as soon as he was able to walk. Train in martial arts and with a sword. 
+
+Final Battle:
+You fight two bosses god and devil then once you defeat both they merge into one being at full health. (if too hard)
+stays at half health. 
+
+Items:
+Droped when you kill a creature including bosses.  Treasures through the dungeans that contain random treasues.
+Rarity accosiated with items (blue, red, green, gold...whatever).  
+
+Crafting:
+- Can combine weapons with jewels to echant.
+- Can combine forge weapons by getting forging metarials (metals, leather...etc)
+- Can slavage metal from other weapons.
+- Boost crafting skills by crating more weapons. 
+- gain experience by crafting more things
+- with greater xp comes greater weapon crating
+
+Market:
+- Buy weapons
+- metals clothes equipments...
+
+Puzzles:
+different puzzles in every dungean
+- Moves things into scales to open doors
+- Levers to open doors
+- color deterimes path(matts idea)
+- given item allows to take control of enimes use that to go through make your way through maze
+- close air vents to lift wall
+- must tranvers shifting tiles
+- determine name of dungeaon with clues and going through dungean
+- determine combination to open door (agian clue in maze)
+- (given story)Certain words in the text refer to objects in the room, and provide an ordering that you can use to arrange or press the objects  (increas in diffculty as you move through dungean) (cap letters)
+- must craft a fishing hock and get jkey to the door
+-gvie uv flashligh look for clues on objects
+-re arrand letters on the screen to form the code
+
+Traps:
+	- lava from the ground
+	- walls crushing you
+	- fog 
+	- darkness
+	- electricity
+	- bullets
+	- rolling ball
