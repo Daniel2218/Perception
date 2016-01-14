@@ -1,0 +1,54 @@
+Stealth, Puzzle, RPG
+You're a secret agent on missions to disarm bombs. You're equipped with a gun and flashlight. Enemies are attracted to the light from your flashlight, the sound your gun firing and the sound of setting off alarms. Breathing and speed of running make more sound etc...
+
+Puzzle
+Maze explorer where each maze is made of multiple color segments. When a color is active, those parts of the maze are revealed. The other parts become walls. In order to finish the maze, it may take multiple color switching.
+
+666
+- You have been banished to hell for some unknown reason.
+- You are given a chance for penance, in which how far you manage to go determines how much of your crimes are pardoned
+- There are 666 levels. Level 666 = The very pit of Hell, Level 1 = God's luxury condo
+- Each room is governed by a judge, who declares the trial you must overcome 
+- You begin at the lowest level, a basic character (ghost?), as you solve the trials within each room, the judge provides you with some new ability
+- As you progress, the truth of the story is revealed in very small pieces.
+- Once the main campaign is over, the levels continue on into some bonus stage
+- New ability at every x level
+
+Dev World
+- A game which evolves as the player moves forward
+- breaks 4th wall
+
+
+Ghost 
+- You are a soul trying to be saved
+- SOmething like a top down adventure game
+- As a spirit you can walk through any physical objects, walls etc.
+- Goal is to ressurect by finding your corpse
+- You are given the intial ability of possessing things, and by doing so you can then interact with the world
+- It will be necessary to do so, as access to the corspe can inly be gained physically
+- As game progresses, ghost ability grows (Possession for a longer amount of time, phase through more shit
+
+
+
+Parallel
+- A side scroller?
+- Every parallel universe is secretly linked
+- Every action you take in one dimension is linked to an equivalent in others
+- Lets say there are 7 universes, Red, Orange, Yellow, Green, Blue, Indigo, Violet
+- Every action input by the player equates to some thing different in each world
+- You can only see you actions from one world at a time
+- Certain obstacles  may arise in one world that arent present in others, or other significant conditions
+- Example: In the Red world you move the character right towards a door, In the blue world moving right equivalent of moving some creature left (towards the character) etc etc
+- Goal is to get all variations of character to the end alive
+
+Daniel:
+
+1.
+ 
+- have an animal as your character have to proform taks with that animal to solve the puzzle.  
+- Can use other abimal character to also solve the puzzle
+
+2. Treadmil Jumper: 
+
+- must travers a path to the middle of a circular treadmill.
+- barriers and enimes in the way also gravity + pull of tred changes
