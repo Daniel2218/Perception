@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C3401187-AF8E-955D-35C3-C8C19CE0C850}") = "PerceptionTest", "Assembly-CSharp.csproj", "{75686179-2B20-6C9C-D292-59CC921A8136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75686179-2B20-6C9C-D292-59CC921A8136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75686179-2B20-6C9C-D292-59CC921A8136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75686179-2B20-6C9C-D292-59CC921A8136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75686179-2B20-6C9C-D292-59CC921A8136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
