@@ -2,7 +2,9 @@
 using System.Collections;
 
 public class controller_camera : MonoBehaviour {
-	public Camera camera;
+	private Camera camera;
+	private GameObject light;// = new GameObject("The Light");
+	private Light light_comp;// = lightGameObject.AddComponent<Light>();
 	public Vector3 pivot;
 	public float pivot_distance;
 
@@ -22,6 +24,12 @@ public class controller_camera : MonoBehaviour {
 	void Start () {
 		camera = Camera.main;
 		camera.transform.position = new Vector3 (10, 10, -10);
+
+		light = new GameObject("The Light");
+		light_comp = light.AddComponent<Light>();
+		light_comp.color = Color.white;
+		light_comp.type = LightType.Directional;
+		light_comp.intensity = 0.5f;
 	}
 
 	// Update is called once per frame
@@ -75,5 +83,8 @@ public class controller_camera : MonoBehaviour {
 
 		camera.transform.position = new Vector3 (pivot.x + x, pivot.y + y, pivot.z + z);
 		camera.transform.eulerAngles = new Vector3 (temp_xy, temp_xz, 0);
+
+		light.transform.position = new Vector3 (pivot.x + x, pivot.y + y, pivot.z + z);
+		light.transform.eulerAngles = new Vector3 (temp_xy, temp_xz, 0);
 	}
 }
