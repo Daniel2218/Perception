@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 3fd729760988844f18dea189c62d3a8d
-timeCreated: 1453491293
+timeCreated: 1453846825
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -37,23 +37,9 @@ ModelImporter:
     400026: transform2
     400028: transform3
     400030: transform4
-    2300000: //RootNode
-    2300002: pasted__pasted__pasted__pCube1
-    2300004: pasted__pasted__pCube1
-    2300006: pasted__pCube1
-    2300008: pCube1
-    2300010: pCube2
-    3300000: //RootNode
-    3300002: pasted__pasted__pasted__pCube1
-    3300004: pasted__pasted__pCube1
-    3300006: pasted__pCube1
-    3300008: pCube1
-    3300010: pCube2
-    4300000: pCube1
-    4300002: pasted__pCube1
-    4300004: pasted__pasted__pCube1
-    4300006: pasted__pasted__pasted__pCube1
-    4300008: pCube2
+    2300000: pCube2
+    3300000: pCube2
+    4300000: pCube2
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -87,7 +73,7 @@ ModelImporter:
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
-    keepQuads: 0
+    keepQuads: 1
     weldVertices: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
@@ -95,7 +81,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
-    normalSmoothAngle: 60
+    normalSmoothAngle: 0
     normalImportMode: 0
     tangentImportMode: 3
   importAnimation: 1
