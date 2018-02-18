@@ -10,5 +10,7 @@ This was a project we built in Unity, so you can simply just clone the repo and 
 
 Unity: You can install it here: https://unity3d.com/
 
+### Contributing 
 
+If you want to add some more features or functionality, we welcome it!
 
